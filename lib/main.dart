@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(new TabLayoutDemo());
-
 class TabLayoutDemo extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
